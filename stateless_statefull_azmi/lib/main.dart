@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter Demo Azmi',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
                       children: <Widget>[
                         Container(
                           margin: EdgeInsets.only(left: 10),
-                          child: Text("Suhu dalam Reamur",
+                          child: Text("Suhu Dalam Reamur",
                               style: TextStyle(fontSize: 20)),
                         ),
                         Container(
