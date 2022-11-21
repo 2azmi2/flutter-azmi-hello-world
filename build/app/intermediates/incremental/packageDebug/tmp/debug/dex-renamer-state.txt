@@ -1,0 +1,4 @@
+#Mon Nov 21 20:33:02 ICT 2022
+base.0=D\:\\Data\\Kuliah Semester 5\\Pemrograman Mobile\\Flutter Project\\Minggu 13\\navigasi_rute\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
