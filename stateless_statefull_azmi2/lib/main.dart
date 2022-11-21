@@ -47,10 +47,16 @@ class _MyHomePageState extends State<MyHomePage> {
 
       if (newValue == "Kelvin") {
         _result = _inputuser + 273;
-        listViewItem.add("Hasil Nilai Dari Kelvin:      " + _result.toString());
+        listViewItem.add("Hasil dari Celcius : " +
+            _inputuser.toString() +
+            " ke Nilai Kelvin : " +
+            _result.toString());
       } else {
         _result = (4 / 5) * _inputuser;
-        listViewItem.add("Hasil Nilai Dari Reamur:    " + _result.toString());
+        listViewItem.add("Hasil dari Celcius : " +
+            _inputuser.toString() +
+            " ke Nilai Reamur : " +
+            _result.toString());
       }
     });
   }
